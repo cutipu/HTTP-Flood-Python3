@@ -1,6 +1,6 @@
 
 # HTTP-Flood with python3 socket
-HTTP Flood via proxy list
+HTTP Flood via proxy,sock4/5 list
 * proxy support
 * sock4/5 support
 * added download sock5 list
