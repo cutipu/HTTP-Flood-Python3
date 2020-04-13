@@ -13,7 +13,8 @@ HTTP Flood via proxy list
 * Bypass Rate limit mode > Disble
 
 For private
->>>>>>>>>>> admin hihihi
+login: admin hihihi
+for full version:
 Discord: uninstall#9477
 
 ![Screenshot](https://i.ibb.co/cQxWhNm/2.png)
