@@ -9,8 +9,8 @@ HTTP Flood via proxy,sock4/5 list
 * useragent random
 * referer random
 * bypass caching with no-cache header and random params
-* Auto Bypass UAM > Disble
-* Bypass Rate limit mode > Disble
+* Auto Bypass UAM > Disable
+* Bypass Rate limit mode > Disable
 
 For private
 login: admin hihihi
