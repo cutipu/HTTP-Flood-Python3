@@ -12,10 +12,5 @@ HTTP Flood via proxy,sock4/5 list
 * Auto Bypass UAM > Disable
 * Bypass Rate limit mode > Disable
 
-For private
-login: admin hihihi
-for full version:
-Discord: uninstall#9477
-
 ![Screenshot](https://i.ibb.co/cQxWhNm/2.png)
 ![Screenshot](https://i.ibb.co/nCcYm2D/3.png)
