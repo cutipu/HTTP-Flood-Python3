@@ -1,4 +1,4 @@
-for Full : Discord: uninstall#9477
+for Full : Discord: james007#9942
 # HTTP-Flood with python3 socket
 HTTP Flood via proxy,sock4/5 list
 * proxy support
